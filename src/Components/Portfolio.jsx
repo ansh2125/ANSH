@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "my github account",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "this is my github account.",
+    url: "github.com/ansh2125",
   },
   {
-    title: "Web Development for Beginners",
+    title: "this is my instagram account.",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://instagram.com/anshshukla_2003?igshidNzZIOhuBkWE4Ng==",
   },
   {
-    title: "My Resume Site",
+    title: "My linkedin account",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "this is my linkedin account you can connect with me on it.",
+    url: "https://www.linkedin.com/in/ansh-shukla-647984230",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "this is my email id ",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url:"anshshukla9027@gmail.com",
   },
 ];
 
